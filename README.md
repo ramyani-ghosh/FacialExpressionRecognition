@@ -1,5 +1,5 @@
 # FacialExpressionRecognition
-Machine Learning project to detect facial expressions from images.
+Machine Learning project to detect facial expressions from images using Covultional Neural Network and Keras.
 
 # Dataset
 "Challenges in Representation Learning: A report on three machine learning
